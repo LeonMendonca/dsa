@@ -1,6 +1,6 @@
-import traverse from "./leon/utils/traverse.ts"
-import create from "./leon/utils/create.ts";
-import insert from "./leon/utils/insert.ts";
+import traverse from "./utils/traverse.ts"
+import create from "./utils/create.ts";
+import insert from "./utils/insert.ts";
 
 const arrayString = ["a", "b", "c"];
 const arrayNumber = [1, 2, 3, 4, 5];
